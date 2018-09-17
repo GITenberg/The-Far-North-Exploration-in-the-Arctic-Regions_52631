@@ -1,5 +1,8 @@
 _repo: The-Far-North-Exploration-in-the-Arctic-Regions_52631
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52631-h/images/cover.jpg
 creator:
   author:
     agent_name: Kane, Elisha Kent
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '44502'
     url: http://www.gutenberg.org/2009/agents/44502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52631#The-Far-North-Exploration-in-the-Arctic-Regions
 gutenberg_issued: '2016-07-23'
 gutenberg_type: Text
 identifiers:
