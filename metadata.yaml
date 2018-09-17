@@ -1,0 +1,28 @@
+_repo: The-Far-North-Exploration-in-the-Arctic-Regions_52631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kane, Elisha Kent
+    birthdate: 1820
+    deathdate: 1857
+    gutenberg_agent_id: '44502'
+    url: http://www.gutenberg.org/2009/agents/44502
+description: ''
+gutenberg_issued: '2016-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grinnell Expedition (2nd : 1853-1855)'
+- !lcc 'G'
+- !lcsh 'Northwest Passage'
+- !lcsh 'Advance (Ship)'
+- !lcsh 'Arctic regions -- Discovery and exploration -- American'
+- !lcsh 'Kane, Elisha Kent, 1820-1857'
+- GITenberg
+title: 'The Far North: Exploration in the Arctic Regions'
+url: http://www.gutenberg.org/ebooks/52631
